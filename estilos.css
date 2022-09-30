@@ -1,3 +1,22 @@
 body{
     background-color: coral;
 }
+
+h1{
+    background-color: aqua;
+
+}
+p{
+    background-color: blanchedalmond;
+}
+/* Terminales: 
+para cambiar de directorio indicamos (cd )*/
+/* Flecha arriba / abajo: BUSCA historial */
+/* clear o cls para "limpiar" */
+/* cd .. me lleva hacia delante y cd desktop */
+/* git --version  me da la versión de Git */
+/* dir  o ls  para conocer contenidos del directorio donde estoy parado */
+/* Ctrl + C cancela instrucciones 
+cuando ejecuto un comando en terminal y me sale en rojo 
+es un error sino me da la informacion */
+/* cuando me muevo en la terminal en carpetas del ordenador me estoy moviendo en rutas absolutas */
