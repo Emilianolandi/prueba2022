@@ -2,12 +2,12 @@ body{
     background-color: coral;
 }
 
-h1{
-    background-color: aqua;
+h1{ 
+    color: aqua;
 
 }
 p{
-    background-color: blanchedalmond;
+    color: blanchedalmond;
 }
 /* Terminales: 
 para cambiar de directorio indicamos (cd )*/
